@@ -16,6 +16,7 @@ form {
   float: right;
   width: 30%;
   padding: 20px;
+  height: 100vh;
 }
 
 label {
@@ -52,3 +53,8 @@ input[type="submit"]:hover {
 button.active {
   background: #334e4d;
 }
+/*
+p{
+  margin:0;
+}
+*/
